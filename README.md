@@ -26,3 +26,19 @@ The final output is a patient-level table highlighting interacting drug pairs an
 
 ## Use Case
 This system mirrors real-world healthcare analytics used in pharmacy safety, claims analysis, and clinical decision support systems.
+
+
+## Power BI Dashboard
+
+The project includes a Power BI dashboard built on top of the SQL and Python outputs to visualize polypharmacy risks.
+
+### Key Insights
+- Severity distribution of adverse drug interactions
+- Patient-level visibility into interacting drug pairs
+- KPI highlighting high-risk interactions
+- Identification of commonly occurring risky drug combinations
+
+### Dashboard Preview
+![Dashboard Overview]("C:\Users\nithi\OneDrive\Pictures\Screenshots\Screenshot 2026-01-28 105937.png")
+![Patient Interactions]("C:\Users\nithi\OneDrive\Pictures\Screenshots\Screenshot 2026-01-28 110729.png")
+
