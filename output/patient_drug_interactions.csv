@@ -1,0 +1,4 @@
+patient_id,drug_a,drug_b,severity
+P001,warfarin,aspirin,High
+P002,metformin,contrast dye,Medium
+P003,ibuprofen,lisinopril,Medium
